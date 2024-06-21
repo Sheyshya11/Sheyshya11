@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subham Shrestha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently working as a software engineer.
 - 💞️ I’m looking to collaborate on Interesting Projects
 
 
